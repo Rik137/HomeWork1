@@ -40,6 +40,14 @@ int value1 = scanner.nextInt();
 ~~~
 3. Я создал метод который посчитал сумму сложения все введенных чисел
 ~~~
+  public static int calculateNumber(int a, int b, int c) {
+        int result = a + b + c;
+        return result;
+    }
+~~~
+4. Я вызвал метод `calculateNumber`.
+~~~
+
 
 
 
